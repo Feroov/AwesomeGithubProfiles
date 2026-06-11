@@ -179,6 +179,7 @@ Star the repo and create a pull request with your GitHub profile!
 | ---------------   | ---------------------------------------------------      |
 | proghead00        | [proghead00](https://github.com/proghead00)              |
 | PluckyPrecious    | [PluckyPrecious](https://github.com/PluckyPrecious)      |
+| Papia-tech        | [Papia-tech](https://github.com/Papia-tech)              |
 <br/>
 
 <h3 id="q"></h3>
